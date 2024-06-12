@@ -11,11 +11,12 @@
 
 /* Aside */
 .contact__aside {
-    background: var(--color-primary);
+    background: var(--color-warning);
     padding: 3rem;
     border-radius: 1rem;
     position: relative;
     bottom: 10rem;
+    color: #000;
 }
 
 .aside__image {

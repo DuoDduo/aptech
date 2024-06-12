@@ -292,6 +292,7 @@ nav button {
   padding: 2rem;
   border-radius: 2rem;
   transition: var(--transition);
+  color: #000;
 }
 
 .category:hover {
