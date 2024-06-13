@@ -418,11 +418,12 @@ nav button {
   position: relative;
   margin-bottom: 5rem;
   background: var(--color-bg1);
+  padding: 2%;
 }
 
-.testimonial {
-  padding-top: 2rem;
-}
+/* .testimonial {
+  padding-top: 0.2rem;
+} */
 
 .avatar {
   width: 6rem;
