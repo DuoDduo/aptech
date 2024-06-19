@@ -270,9 +270,8 @@ nav button {
 
 .categories__container {
   display: grid;
-  grid-template-columns: 40% 60%;
+  grid-template-columns: 30% 70%;
 }
-
 .categories__left {
   margin-right: 4rem;
 }
@@ -672,7 +671,7 @@ footer ul li a:hover {
 
   /* Categories */
   .categories__right {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 0.7rem;
   }
 
